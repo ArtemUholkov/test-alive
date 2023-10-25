@@ -12,6 +12,9 @@ header {
   color: white;
   transition: all 0.5s;
   font-size: 24px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
 }
 .desk_mob_number:hover {
   opacity: 0.6;
